@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"SST",
+		"SIT",
+		"SST"
+	],
+	
+	"key":
+	{
+		"I": {"item": "jackdndmod:ingot_steel"},
+		"S": {"item": "jackdndmod:reinforced_stick"},
+		"T": {"item": "minecraft:string"}
+	},
+	"result": {"item": "jackdndmod:long_bow"}
+	
+}

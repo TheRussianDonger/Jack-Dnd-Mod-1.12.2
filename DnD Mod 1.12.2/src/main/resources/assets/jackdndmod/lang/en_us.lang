@@ -1,0 +1,32 @@
+//Creative Tab
+itemGroup.dnd_tab=Jack's Dungeons and Dragons Mod
+
+//Items
+item.dnd_icon.name=Dnd Icon
+item.ingot_steel.name=Steel Ingot
+item.studded_leather.name=Studded Leather
+item.steel_nugget.name=Steel Nugget
+item.reformed_stick.name=Reformed Stick
+item.reinforced_stick.name=Reinforced Stick
+item.laurel.name=Laurel Leaf
+
+	//Easter eggs
+item.laurel_wreath.name=Laurel Wreath
+
+	//Weapons
+item.long_sword.name=Long Sword
+item.staff_lightning.name=Wand of Lightning Bolts
+item.long_bow.name=Long Bow
+item.short_bow.name=Short Bow
+item.quarterstaff.name=Quarterstaff
+
+//Blocks
+
+	//Metalic Blocks
+tile.steel_block.name=Steel Block
+tile.molten_block.name=Molten Block
+	
+	//Caesar's Tree
+tile.leaves_vici.name=Vici Leaves
+tile.log_vici.name=Vici Log
+tile.sappling_vici.name=Caesar's Tree Sappling

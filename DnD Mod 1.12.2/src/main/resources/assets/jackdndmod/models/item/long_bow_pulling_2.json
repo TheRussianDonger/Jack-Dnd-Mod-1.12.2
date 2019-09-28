@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "jackdndmod:items/long_bow_pulling_2"
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" ST",
+		"SIT",
+		" ST"
+	],
+	
+	"key":
+	{
+		"I": {"item": "jackdndmod:ingot_steel"},
+		"S": {"item": "jackdndmod:reformed_stick"},
+		"T": {"item": "minecraft:string"}
+	},
+	"result": {"item": "jackdndmod:short_bow"}
+	
+}

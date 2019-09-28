@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jackdndmod",
+  "name": "Jack's Dungeons and Dragons Mod",
+  "description": "A dungeons and dragons mod created by me: Jack Vadakumchery. I intend to implement classes, races, and an rpg lvling system from Dungeons and Dragons 5e.",
+  "version": "{0.0.2}",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/lightningwolf201519/Minecraft-Dnd-Mod-1.12.2",
+  "updateUrl": "",
+  "authorList": ["Jack Vadakumchery"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+		"pattern":
+	[
+		"I"
+	],
+	
+	"key":
+	{
+		"I": {"item": "jackdndmod:steel_block"}
+	},
+
+
+	"result": 
+	{
+		"item": "jackdndmod:ingot_steel",
+			"count": 9
+	}
+
+}

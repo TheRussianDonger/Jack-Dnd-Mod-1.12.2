@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+         "check_decay=true,decayable=true": { "model": "jackdndmod:leaves_vici" },
+        "check_decay=true,decayable=false": { "model": "jackdndmod:leaves_vici" },
+        "check_decay=false,decayable=true": { "model": "jackdndmod:leaves_vici" },
+        "check_decay=false,decayable=false": { "model": "jackdndmod:leaves_vici" }
+    }
+}

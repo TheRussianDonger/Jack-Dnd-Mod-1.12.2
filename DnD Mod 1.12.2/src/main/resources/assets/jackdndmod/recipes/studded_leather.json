@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+		
+	"pattern":
+	[
+		"I",
+		"L"
+	],
+	
+	"key":
+	{
+		"I": {"item": "jackdndmod:steel_nugget"},
+		"L": {"item": "minecraft:leather"}
+	},
+	"result": {"item": "jackdndmod:studded_leather"}
+}

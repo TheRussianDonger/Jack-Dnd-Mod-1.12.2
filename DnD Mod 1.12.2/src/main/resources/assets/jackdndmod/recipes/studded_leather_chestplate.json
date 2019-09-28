@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"L L",
+		"LLL",
+		"LLL"
+		
+	],
+	
+	"key":
+	{
+		"L": {"item": "jackdndmod:studded_leather"}
+	},
+	
+	"result": {"item": "jackdndmod:studded_leather_chestplate"}
+	
+}
